@@ -1,7 +1,7 @@
 # Project Name: U.S. Patent Phrase to Phrase Matching
 ## Company Name: Phraze Labs
 ### Group Members: KellyAnne George, Jillian Jacinto, Evelyn Garcia-Mendoza
-### Prject Link: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview/description
+### Project Link: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview/description
 - With the US having more than 11 million patents, finding similarities between a patent that has not been granted and already existing patents is of vital importance.  The model created should determine the semantic similarities between phrases to see if the invention has been previously put forth and assess its originality. This is interesting because if the model is successful, it could save patent examiners and other people a significant amount of time searching and analyzing large data sets. 
 - We will be reading about semantic similarities, learning on patent-graphs for patent classification, and background on decision trees. We also found more information when reading about data pooling and patents in scientific advancements. 
 - The dataset used is provided by the U.S. Patent and Trademark Office (USPTO). The data includes a training dataset which provides two phrases, their classification group, and the similarity between the two. The similarity (score) is given by a value from 0 to 1, where 0 means they are not related and 1 means they are exactly the same. The data also contains a testing set, where the score is not given. 
