@@ -32,10 +32,11 @@ Our approach is correct in that it establishes a relationship between words that
 
 
 References:
-Bag, H. (2022, April 22). Patent matching-glove embd. Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/code/himanshubag/patent-matching-glove-embd
   
-Fang, Lintao, et al. (2021, September 5). Patent2Vec: Multi-View Representation Learning on Patent-Graphs for Patent Classification. World Wide Web, vol. 24, no. 5, pp. 1791–812. Retrieved April 24, 2022, from EBSCOhost,https://doi-org.libdb.njit.edu:8443/10.1007/s11280-021-00885-4.
+ - Bag, H. (2022, April 22). Patent matching-glove embd. Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/code/himanshubag/patent-matching-glove-embd
   
-Jr., T. T. (2022, March 22). Creating word embeddings with jax. Medium. Retrieved April 24, 2022, from https://towardsdatascience.com/creating-word-embeddings-with-jax-c9f144901472
+ - Fang, Lintao, et al. (2021, September 5). Patent2Vec: Multi-View Representation Learning on Patent-Graphs for Patent Classification. World Wide Web, vol. 24, no. 5, pp. 1791–812. Retrieved April 24, 2022, from EBSCOhost,https://doi-org.libdb.njit.edu:8443/10.1007/s11280-021-00885-4.
   
-Schwartz , B. (2022, February 23). Welcome Bert: Google's latest search algorithm to better understand natural language. Search Engine Land. Retrieved April 24, 2022, from https://searchengineland.com/welcome-bert-google-artificial-intelligence-for-understanding-search-queries-323976 
+ - Jr., T. T. (2022, March 22). Creating word embeddings with jax. Medium. Retrieved April 24, 2022, from https://towardsdatascience.com/creating-word-embeddings-with-jax-c9f144901472
+  
+ - Schwartz , B. (2022, February 23). Welcome Bert: Google's latest search algorithm to better understand natural language. Search Engine Land. Retrieved April 24, 2022, from https://searchengineland.com/welcome-bert-google-artificial-intelligence-for-understanding-search-queries-323976 
