@@ -1,8 +1,8 @@
 # Project Name: (US Patent Phrase to Phrase Matching)
 ## Project Summary: (This project will output similarity scores for two phrases based on a context.)
-## Github Link: 
+## Github Link: https://github.com/kg497/CS301/dev/docs/Report.md
 ## Group Names: KellyAnne George, Jillian Jacinto, Evelyn Garcia Mendoza
-## Kaggle Competition Link: 
+## Kaggle Competition Link: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching
 - Abstract:
   -  The project aims to determine the similarity score between two phrases to understand if they share meaning. Finding meaning between two phrases will help speed up the process of vetting and granting US Patents. It will reduce the strain on personnel who need to go over the large quantities of existing patents to compare the language in new patents. For our approach, we used word embeddings to create vectors that hold values of other words that are correlated with that word. For example, if you had the sentence “the dog likes walks,” then each word would be given an index from 0 to 3. Then a vector for the word dog would then contain the indexes 0, 2, 3. When comparing two words, such as “dog” and “walks,” it would be easy to determine that they share some correlation. The less correlation two words share, the less semantic similarity they have. Overall, our results show that this method does improve the accuracy of finding the semantic similarity but still does not produce good results.
 - Introduction:
