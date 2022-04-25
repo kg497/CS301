@@ -27,4 +27,15 @@ Our approach is correct in that it establishes a relationship between words that
   - Another way we tested our results is by looking at the Mean Square Error. Mean Square Error allows for us to determine the difference between the predicted and actual scores. The mean square error for the predicted vs actual scores is approximately .095. This indicates that the predicted and actual scores were near each other, but not perfectly accurate. This could be improved by feeding our predictions to a neural network and using MSE as the loss function in order to update the weights. 
   - ![image](https://user-images.githubusercontent.com/90022095/164999644-749655f8-5c33-462a-ab3f-d80099fbf958.png)
   - The graph above depicts the values of our predicted scores vs the actual scores for the first 100 patents. Based on this graph, there seems to be some correlation between the actual and calculated score, but they do not always follow the same pattern. This emphasizes the need for us to do further implementations. 
+- Conclusion:
+ - This project has established the importance of NLP in daily use. Using word2vec and GloVe embeddings revealed how word meaning could also be described using numbers. Unfortunately, there is not a lot of material on implementing a neural network that works for two phrase inputs. The available resources utilize high level APIs and methodology that greatly exceeds that of an introductory course. However, the basic principles of Natural Language Processing are instilled through our project. One of the main takeaways from this project is the representation of words as tokens and the need for outside data to determine semantic similarity. Initially, we attempted to do this project with the learning only coming from the given data, but that would not have been successful because it would not allow us to learn the correlation between words. For new applications of our project, we should implement a learner so that the accuracy will improve and implement word2vec over GloVe. 
+
+
+References:
+Bag, H. (2022, April 22). Patent matching-glove embd. Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/code/himanshubag/patent-matching-glove-embd
   
+Fang, Lintao, et al. (2021, September 5). Patent2Vec: Multi-View Representation Learning on Patent-Graphs for Patent Classification. World Wide Web, vol. 24, no. 5, pp. 1791–812. Retrieved April 24, 2022, from EBSCOhost,https://doi-org.libdb.njit.edu:8443/10.1007/s11280-021-00885-4.
+  
+Jr., T. T. (2022, March 22). Creating word embeddings with jax. Medium. Retrieved April 24, 2022, from https://towardsdatascience.com/creating-word-embeddings-with-jax-c9f144901472
+  
+Schwartz , B. (2022, February 23). Welcome Bert: Google's latest search algorithm to better understand natural language. Search Engine Land. Retrieved April 24, 2022, from https://searchengineland.com/welcome-bert-google-artificial-intelligence-for-understanding-search-queries-323976 
