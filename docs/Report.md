@@ -1,6 +1,6 @@
 # Project Name: (US Patent Phrase to Phrase Matching)
 ## Project Summary: (This project will output similarity scores for two phrases based on a context.)
-## Github Link: https://github.com/kg497/CS301/blob/dev/docs/Report.md
+## Github Link: https://github.com/kg497/CS301/blob/dev/docs/CS301_Project_Embeddings.ipynb
 ## Group Names: KellyAnne George, Jillian Jacinto, Evelyn Garcia Mendoza
 ## Kaggle Competition Link: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching
 - Abstract:
